@@ -1,0 +1,16 @@
+streamlit
+langchain
+langgraph
+google-generativeai
+pymongo
+python-dotenv
+pandas
+numpy
+geopy
+twilio
+streamlit-aggrid
+plotly
+seaborn
+scikit-learn
+langchain-google-genai
+pydeck

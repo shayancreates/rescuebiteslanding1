@@ -1,0 +1,5 @@
+.env
+.en
+.streamlit
+secrets.toml
+config.toml
